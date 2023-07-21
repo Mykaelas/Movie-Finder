@@ -25,8 +25,7 @@ https://bjennings90.github.io/Movie-Finder/
 * HTML 
 * CSS
 * JavaScript 
-* (2) Server-side API’s:
-  - API’s used for this project: iMDB api and the landOf.Dev movie api
+* TMDB(The movie data base) API
 * Materialize CSS 
 * GoogleFonts 
 * GitHub
